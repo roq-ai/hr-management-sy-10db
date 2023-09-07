@@ -1,0 +1,2272 @@
+[
+  {
+    "song": [
+      {
+        "id": "697a9e98-a3a9-49c9-b897-befcddf2e9ae",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "duration": 8739,
+        "genre": "Pop",
+        "release_date": "2023-09-06T22:46:02.434Z",
+        "created_at": "2023-09-06T19:51:51.651Z",
+        "updated_at": "2023-09-06T21:42:56.003Z"
+      },
+      {
+        "id": "975d5474-dde5-4336-8af6-52e4e99a0a91",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 39204,
+        "genre": "Rock",
+        "release_date": "2023-09-06T17:21:28.555Z",
+        "created_at": "2023-09-07T06:04:18.154Z",
+        "updated_at": "2023-09-06T11:37:26.891Z"
+      },
+      {
+        "id": "94c32c25-fedb-40ec-a2d5-a27c5cf796f4",
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "duration": 82750,
+        "genre": "Classic",
+        "release_date": "2023-09-06T09:44:29.040Z",
+        "created_at": "2023-09-07T04:45:39.827Z",
+        "updated_at": "2023-09-06T22:46:05.859Z"
+      },
+      {
+        "id": "d3c3e03e-9afd-4f49-bab6-15f0a8af2429",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "duration": 63388,
+        "genre": "Country",
+        "release_date": "2023-09-07T08:25:54.961Z",
+        "created_at": "2023-09-07T02:20:53.789Z",
+        "updated_at": "2023-09-06T17:45:35.743Z"
+      },
+      {
+        "id": "2aa8af7e-e649-43af-8e5c-3a3643fef64b",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "duration": 37288,
+        "genre": "Alternative",
+        "release_date": "2023-09-06T10:25:57.004Z",
+        "created_at": "2023-09-06T14:03:14.767Z",
+        "updated_at": "2023-09-06T11:21:50.085Z"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "93fd3012-a022-474c-9de2-3903c94c6f86",
+        "brand": "Apple",
+        "model": "iPod",
+        "price": 88603,
+        "color": "Black",
+        "weight": 41350,
+        "created_at": "2023-09-06T14:21:20.964Z",
+        "updated_at": "2023-09-07T03:41:35.140Z"
+      },
+      {
+        "id": "36e66d29-31a2-49ff-b588-d1b73c3b92db",
+        "brand": "Sony",
+        "model": "Walkman",
+        "price": 87625,
+        "color": "Silver",
+        "weight": 15862,
+        "created_at": "2023-09-06T18:59:15.720Z",
+        "updated_at": "2023-09-06T16:11:12.242Z"
+      },
+      {
+        "id": "cd6ff5c9-70a6-4939-bdad-662715dab540",
+        "brand": "Samsung",
+        "model": "Galaxy Player",
+        "price": 54796,
+        "color": "Blue",
+        "weight": 40430,
+        "created_at": "2023-09-07T09:14:43.982Z",
+        "updated_at": "2023-09-06T16:44:15.343Z"
+      },
+      {
+        "id": "c30a59b3-cf88-42a3-aee5-e5e68f09ceba",
+        "brand": "Bose",
+        "model": "SoundLink",
+        "price": 9454,
+        "color": "Red",
+        "weight": 29125,
+        "created_at": "2023-09-06T19:36:06.305Z",
+        "updated_at": "2023-09-07T08:53:24.898Z"
+      },
+      {
+        "id": "78c6f1c7-4837-4fb8-8cba-2a25433e2d24",
+        "brand": "Philips",
+        "model": "GoGear",
+        "price": 71473,
+        "color": "White",
+        "weight": 33775,
+        "created_at": "2023-09-07T01:28:01.531Z",
+        "updated_at": "2023-09-07T01:00:37.920Z"
+      }
+    ],
+    "selected_mp3_players": [
+      {
+        "id": "0d3d21b4-5ca6-4896-803e-949c43ce81a1",
+        "created_at": "2023-09-06T15:44:39.593Z",
+        "updated_at": "2023-09-06T10:29:44.329Z",
+        "mp3_player_id": "36e66d29-31a2-49ff-b588-d1b73c3b92db",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11b4c1e2-779e-43c0-8178-2634d800a232",
+        "created_at": "2023-09-06T21:05:51.010Z",
+        "updated_at": "2023-09-06T17:04:11.700Z",
+        "mp3_player_id": "c30a59b3-cf88-42a3-aee5-e5e68f09ceba",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e7a252e-b366-41b2-b0a0-3cd49dbb34ed",
+        "created_at": "2023-09-06T23:52:05.665Z",
+        "updated_at": "2023-09-06T21:43:49.172Z",
+        "mp3_player_id": "93fd3012-a022-474c-9de2-3903c94c6f86",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92c7d578-a8bc-4388-bd1a-30c451c6d2e7",
+        "created_at": "2023-09-07T03:40:32.434Z",
+        "updated_at": "2023-09-07T04:36:18.980Z",
+        "mp3_player_id": "c30a59b3-cf88-42a3-aee5-e5e68f09ceba",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b4925ec-321c-4a22-8fc9-3ada5583853d",
+        "created_at": "2023-09-06T19:34:05.069Z",
+        "updated_at": "2023-09-06T13:24:57.158Z",
+        "mp3_player_id": "c30a59b3-cf88-42a3-aee5-e5e68f09ceba",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite_songs": [
+      {
+        "id": "c537e613-0500-4840-acb6-2b2cfb1b9254",
+        "created_at": "2023-09-07T01:35:52.864Z",
+        "updated_at": "2023-09-06T21:23:32.295Z",
+        "song_id": "975d5474-dde5-4336-8af6-52e4e99a0a91",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e8338e3-f239-49bb-a529-26331c1753c3",
+        "created_at": "2023-09-06T23:00:37.690Z",
+        "updated_at": "2023-09-06T10:17:17.343Z",
+        "song_id": "2aa8af7e-e649-43af-8e5c-3a3643fef64b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0932897c-d7bf-4a56-a583-b2b5097f9288",
+        "created_at": "2023-09-06T14:40:25.423Z",
+        "updated_at": "2023-09-07T00:32:04.802Z",
+        "song_id": "975d5474-dde5-4336-8af6-52e4e99a0a91",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b721b83-d8da-4cf4-9c99-b5735d288c38",
+        "created_at": "2023-09-07T05:52:18.610Z",
+        "updated_at": "2023-09-06T14:42:11.003Z",
+        "song_id": "975d5474-dde5-4336-8af6-52e4e99a0a91",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "881d8875-6e89-43e7-b63d-11845dfdaf93",
+        "created_at": "2023-09-06T22:41:28.713Z",
+        "updated_at": "2023-09-06T12:46:17.142Z",
+        "song_id": "94c32c25-fedb-40ec-a2d5-a27c5cf796f4",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a84bb9d2-e6cb-4de0-bfb3-1038e1b2e627",
+        "email": "Cyril_Carroll@yahoo.com",
+        "firstName": "Bonnie",
+        "lastName": "Bosco-Jacobs",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/386.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6f714e85-f33e-431f-8662-0b764768d4c8",
+        "email": "Meggie32@hotmail.com",
+        "firstName": "Arnoldo",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1550883",
+        "tenantId": null
+      },
+      {
+        "reference": "afb60d8c-5528-42f7-9475-43a000c758bd",
+        "email": "Sebastian.Wilderman@hotmail.com",
+        "firstName": "Savannah",
+        "lastName": "Hirthe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34356398",
+        "tenantId": null
+      },
+      {
+        "reference": "1b78a05a-0e4e-421d-8dfc-4fe9c71e7752",
+        "email": "Jack28@gmail.com",
+        "firstName": "Terence",
+        "lastName": "Greenfelder-Hickle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/384.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e60eee31-df9a-4f4c-bb03-eeb456cba677",
+        "email": "Alejandra_Schmeler16@yahoo.com",
+        "firstName": "Schuyler",
+        "lastName": "Conn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/915.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "b108cc3f-5189-4199-a694-6f2389040c5d",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 82143,
+        "genre": "Rock",
+        "release_date": "2023-09-06T15:59:03.673Z",
+        "created_at": "2023-09-07T03:23:35.921Z",
+        "updated_at": "2023-09-07T01:34:02.822Z"
+      },
+      {
+        "id": "56c84081-a58e-4e36-80f2-bdca695957c9",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "duration": 58547,
+        "genre": "Classic Rock",
+        "release_date": "2023-09-07T02:11:41.262Z",
+        "created_at": "2023-09-06T18:52:34.392Z",
+        "updated_at": "2023-09-06T20:57:31.540Z"
+      },
+      {
+        "id": "7c7d3787-9abe-4f80-a54c-f66a63cb3d62",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "duration": 60108,
+        "genre": "Pop",
+        "release_date": "2023-09-06T17:05:54.120Z",
+        "created_at": "2023-09-07T03:17:51.408Z",
+        "updated_at": "2023-09-06T12:05:21.004Z"
+      },
+      {
+        "id": "08aad3ee-d12a-477d-a754-1c5e83552a97",
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "duration": 45187,
+        "genre": "Folk",
+        "release_date": "2023-09-06T12:57:27.120Z",
+        "created_at": "2023-09-07T09:14:46.304Z",
+        "updated_at": "2023-09-07T04:03:47.787Z"
+      },
+      {
+        "id": "983883c3-a3c8-42cb-8b19-a22264f26ad6",
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "duration": 68119,
+        "genre": "Alternative",
+        "release_date": "2023-09-06T12:56:36.045Z",
+        "created_at": "2023-09-06T21:46:41.419Z",
+        "updated_at": "2023-09-06T23:42:38.458Z"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "f50a98db-492e-40ed-875a-21ce28986bd9",
+        "brand": "Apple",
+        "model": "iPod",
+        "price": 39853,
+        "color": "Black",
+        "weight": 85427,
+        "created_at": "2023-09-07T05:50:55.216Z",
+        "updated_at": "2023-09-07T06:32:55.616Z"
+      },
+      {
+        "id": "af3117b9-295f-410b-b298-85620c72a773",
+        "brand": "Sony",
+        "model": "Walkman",
+        "price": 91428,
+        "color": "Silver",
+        "weight": 39996,
+        "created_at": "2023-09-06T16:08:16.535Z",
+        "updated_at": "2023-09-06T10:53:56.234Z"
+      },
+      {
+        "id": "76dd67e4-2f7c-4a21-b68b-bebde79a3d7d",
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "price": 23228,
+        "color": "Blue",
+        "weight": 99787,
+        "created_at": "2023-09-06T22:35:07.539Z",
+        "updated_at": "2023-09-07T08:10:13.893Z"
+      },
+      {
+        "id": "ddc33faa-e2b3-4078-9226-6ce384fddad4",
+        "brand": "Bose",
+        "model": "SoundLink",
+        "price": 23684,
+        "color": "Red",
+        "weight": 89796,
+        "created_at": "2023-09-07T09:19:53.519Z",
+        "updated_at": "2023-09-06T18:43:52.791Z"
+      },
+      {
+        "id": "7406e107-f10f-4ed0-bd32-76e647d6a163",
+        "brand": "JBL",
+        "model": "Flip",
+        "price": 19126,
+        "color": "White",
+        "weight": 30092,
+        "created_at": "2023-09-07T07:04:14.198Z",
+        "updated_at": "2023-09-06T13:07:23.022Z"
+      }
+    ],
+    "selected_mp3_players": [
+      {
+        "id": "1365dca5-919d-4eb9-89a3-f9aa42197409",
+        "created_at": "2023-09-07T09:07:48.886Z",
+        "updated_at": "2023-09-07T07:12:39.079Z",
+        "mp3_player_id": "af3117b9-295f-410b-b298-85620c72a773",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9b6c6ca4-be0b-488e-ab84-8950735f3e70",
+        "created_at": "2023-09-06T15:40:29.569Z",
+        "updated_at": "2023-09-07T03:47:18.768Z",
+        "mp3_player_id": "ddc33faa-e2b3-4078-9226-6ce384fddad4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29496b93-2db9-4797-91c0-07edc28d0fcd",
+        "created_at": "2023-09-06T16:57:29.829Z",
+        "updated_at": "2023-09-07T00:07:19.195Z",
+        "mp3_player_id": "7406e107-f10f-4ed0-bd32-76e647d6a163",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6024b890-5cbe-4d32-ac48-278262463892",
+        "created_at": "2023-09-07T08:39:13.811Z",
+        "updated_at": "2023-09-06T19:51:45.700Z",
+        "mp3_player_id": "ddc33faa-e2b3-4078-9226-6ce384fddad4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f08bad5d-b466-4047-abb9-a6b81c559d72",
+        "created_at": "2023-09-06T12:49:39.139Z",
+        "updated_at": "2023-09-07T04:22:44.741Z",
+        "mp3_player_id": "ddc33faa-e2b3-4078-9226-6ce384fddad4",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite_songs": [
+      {
+        "id": "8cefc7b9-6d84-4b6e-9c69-aadc692f57b2",
+        "created_at": "2023-09-06T21:27:14.626Z",
+        "updated_at": "2023-09-06T13:13:55.290Z",
+        "song_id": "983883c3-a3c8-42cb-8b19-a22264f26ad6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92e08226-ce7c-40b4-9c99-51302093d9b5",
+        "created_at": "2023-09-07T03:58:05.999Z",
+        "updated_at": "2023-09-07T01:13:48.120Z",
+        "song_id": "56c84081-a58e-4e36-80f2-bdca695957c9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c547a39a-3a3c-46f1-b902-95644aa65293",
+        "created_at": "2023-09-06T11:54:25.504Z",
+        "updated_at": "2023-09-07T07:10:15.683Z",
+        "song_id": "56c84081-a58e-4e36-80f2-bdca695957c9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dc2de28d-a66b-413f-8f30-56d748a52abb",
+        "created_at": "2023-09-06T18:35:07.725Z",
+        "updated_at": "2023-09-06T10:27:45.617Z",
+        "song_id": "7c7d3787-9abe-4f80-a54c-f66a63cb3d62",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a69a33b5-1786-4aa7-9dfd-ace63d199a8d",
+        "created_at": "2023-09-06T13:54:28.630Z",
+        "updated_at": "2023-09-07T00:41:30.391Z",
+        "song_id": "b108cc3f-5189-4199-a694-6f2389040c5d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b85711ae-940a-48fd-a906-360327d4060b",
+        "email": "Marshall77@yahoo.com",
+        "firstName": "Dominic",
+        "lastName": "Howe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48931829",
+        "tenantId": null
+      },
+      {
+        "reference": "07b58233-2e53-4ed8-9b90-f14f3189888f",
+        "email": "Fabiola.Schoen86@hotmail.com",
+        "firstName": "Bonnie",
+        "lastName": "O'Conner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29833022",
+        "tenantId": null
+      },
+      {
+        "reference": "8229ef26-0728-41b6-b26c-67fc0f52b1a9",
+        "email": "Norwood70@gmail.com",
+        "firstName": "Freda",
+        "lastName": "Bahringer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1003.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a6ba2ed9-9e79-42ca-ba3a-0b43ce9e5b7b",
+        "email": "Branson_Berge@hotmail.com",
+        "firstName": "Filomena",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/864.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9a636c14-fc76-4bc2-9d37-6b9944178e7b",
+        "email": "Maxime_Skiles@gmail.com",
+        "firstName": "Ressie",
+        "lastName": "Heaney",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/357.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "25528d91-6b89-4400-842e-937e99c341ab",
+        "title": "Yesterday",
+        "artist": "The Beatles",
+        "duration": 11150,
+        "genre": "Rock",
+        "release_date": "2023-09-06T13:39:41.505Z",
+        "created_at": "2023-09-06T10:47:35.825Z",
+        "updated_at": "2023-09-06T13:36:57.895Z"
+      },
+      {
+        "id": "7a6a55b3-8b3c-4b13-aa5d-c4d3fe772aec",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 24395,
+        "genre": "Pop",
+        "release_date": "2023-09-07T03:04:01.383Z",
+        "created_at": "2023-09-06T15:43:05.693Z",
+        "updated_at": "2023-09-07T06:09:00.834Z"
+      },
+      {
+        "id": "e3a2aaad-6036-49fd-9534-2114e98a1111",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "duration": 22516,
+        "genre": "Country",
+        "release_date": "2023-09-06T13:11:57.991Z",
+        "created_at": "2023-09-07T07:43:23.964Z",
+        "updated_at": "2023-09-06T22:41:08.994Z"
+      },
+      {
+        "id": "06e9a888-4782-406d-8cbd-d52ac6a840c8",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "duration": 89824,
+        "genre": "R&B",
+        "release_date": "2023-09-06T16:14:15.806Z",
+        "created_at": "2023-09-07T05:22:10.477Z",
+        "updated_at": "2023-09-07T06:03:17.765Z"
+      },
+      {
+        "id": "4bdc2269-a28b-4885-b517-6a31d8a035e9",
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "duration": 24333,
+        "genre": "Hip Hop",
+        "release_date": "2023-09-06T17:10:43.327Z",
+        "created_at": "2023-09-06T10:45:15.112Z",
+        "updated_at": "2023-09-06T11:03:58.494Z"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "37d6e2bb-b33e-4385-9b08-b219741521df",
+        "brand": "Apple",
+        "model": "iPod",
+        "price": 32684,
+        "color": "Black",
+        "weight": 70275,
+        "created_at": "2023-09-07T07:57:20.393Z",
+        "updated_at": "2023-09-06T23:33:44.918Z"
+      },
+      {
+        "id": "086d8c5c-e4ed-49c2-92f1-2f2961bc217a",
+        "brand": "Sony",
+        "model": "Walkman",
+        "price": 5663,
+        "color": "Silver",
+        "weight": 70722,
+        "created_at": "2023-09-07T07:00:37.446Z",
+        "updated_at": "2023-09-06T17:36:36.458Z"
+      },
+      {
+        "id": "e343a90c-5ac2-4b42-8349-8a360810c4f1",
+        "brand": "Samsung",
+        "model": "Galaxy Player",
+        "price": 26827,
+        "color": "Blue",
+        "weight": 89142,
+        "created_at": "2023-09-07T01:06:56.043Z",
+        "updated_at": "2023-09-06T22:07:33.377Z"
+      },
+      {
+        "id": "d393bf9e-b6fb-497c-9d34-5d64902f860b",
+        "brand": "Bose",
+        "model": "SoundLink",
+        "price": 96747,
+        "color": "Red",
+        "weight": 23306,
+        "created_at": "2023-09-07T04:45:05.203Z",
+        "updated_at": "2023-09-07T00:18:28.504Z"
+      },
+      {
+        "id": "8a10d8bc-fe14-44c7-a602-e43eb00c7ffb",
+        "brand": "JBL",
+        "model": "Flip",
+        "price": 5841,
+        "color": "White",
+        "weight": 77251,
+        "created_at": "2023-09-07T00:52:25.447Z",
+        "updated_at": "2023-09-06T11:05:16.799Z"
+      }
+    ],
+    "selected_mp3_players": [
+      {
+        "id": "81076939-2689-43b0-b2aa-2f019f4cd846",
+        "created_at": "2023-09-07T03:54:48.384Z",
+        "updated_at": "2023-09-06T17:45:52.224Z",
+        "mp3_player_id": "086d8c5c-e4ed-49c2-92f1-2f2961bc217a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16bb24dc-2345-44b9-93f8-a98a1810f996",
+        "created_at": "2023-09-07T07:22:36.113Z",
+        "updated_at": "2023-09-06T13:41:30.788Z",
+        "mp3_player_id": "086d8c5c-e4ed-49c2-92f1-2f2961bc217a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "531a2c59-63d9-4f52-997c-8f3bc16a3ed6",
+        "created_at": "2023-09-06T23:20:15.628Z",
+        "updated_at": "2023-09-07T01:27:59.738Z",
+        "mp3_player_id": "e343a90c-5ac2-4b42-8349-8a360810c4f1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a887a433-7f9b-4923-9545-935d9aa85d85",
+        "created_at": "2023-09-06T18:12:47.677Z",
+        "updated_at": "2023-09-06T15:14:11.954Z",
+        "mp3_player_id": "37d6e2bb-b33e-4385-9b08-b219741521df",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e5c4df4a-225a-41aa-b7e5-9f0a2bc6fb11",
+        "created_at": "2023-09-06T21:34:43.434Z",
+        "updated_at": "2023-09-06T20:51:32.549Z",
+        "mp3_player_id": "d393bf9e-b6fb-497c-9d34-5d64902f860b",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite_songs": [
+      {
+        "id": "358bcb97-545e-4e85-af77-09334c684c31",
+        "created_at": "2023-09-06T12:59:40.624Z",
+        "updated_at": "2023-09-07T07:17:37.666Z",
+        "song_id": "7a6a55b3-8b3c-4b13-aa5d-c4d3fe772aec",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ba368a4-e63d-430c-b470-aa52c6ebf4e9",
+        "created_at": "2023-09-06T13:18:10.512Z",
+        "updated_at": "2023-09-06T18:33:55.432Z",
+        "song_id": "e3a2aaad-6036-49fd-9534-2114e98a1111",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10a4ea3c-89b9-488e-92f0-a53438429b0d",
+        "created_at": "2023-09-07T02:26:48.331Z",
+        "updated_at": "2023-09-06T12:38:41.296Z",
+        "song_id": "4bdc2269-a28b-4885-b517-6a31d8a035e9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "205f19d3-7e98-4bd2-bffa-9a0c9f81d34a",
+        "created_at": "2023-09-07T01:34:23.134Z",
+        "updated_at": "2023-09-06T22:35:07.816Z",
+        "song_id": "25528d91-6b89-4400-842e-937e99c341ab",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8529f714-57f9-4d5e-889a-847386b2178e",
+        "created_at": "2023-09-06T13:33:46.906Z",
+        "updated_at": "2023-09-07T02:50:29.123Z",
+        "song_id": "4bdc2269-a28b-4885-b517-6a31d8a035e9",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "46ee7970-7551-49ce-8f8c-e0e9fae66f7d",
+        "email": "Madyson59@gmail.com",
+        "firstName": "Maribel",
+        "lastName": "O'Hara",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1102.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2e09d99b-fcae-4529-b69e-178ff0923450",
+        "email": "Kevon_Wolff43@yahoo.com",
+        "firstName": "Max",
+        "lastName": "Von",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/95.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8fd4ef1e-abd9-44d9-802a-d6ee67b2eaca",
+        "email": "Gus.Fahey98@yahoo.com",
+        "firstName": "Simeon",
+        "lastName": "Purdy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/496.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "57977b1c-c342-4692-b4ad-4cc2c83cc9e0",
+        "email": "Iva.Nitzsche@gmail.com",
+        "firstName": "Tristian",
+        "lastName": "Parker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36348150",
+        "tenantId": null
+      },
+      {
+        "reference": "f86858d8-1f90-46b4-a657-10fe6b4c1565",
+        "email": "Delaney52@gmail.com",
+        "firstName": "Marc",
+        "lastName": "Douglas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/645.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "73e15cf2-665f-4ec9-b969-3b39e20a30be",
+        "title": "Yesterday",
+        "artist": "The Beatles",
+        "duration": 20537,
+        "genre": "Rock",
+        "release_date": "2023-09-07T08:35:36.723Z",
+        "created_at": "2023-09-07T08:18:06.782Z",
+        "updated_at": "2023-09-07T08:23:31.076Z"
+      },
+      {
+        "id": "009e26d5-3e47-485d-ac25-4ad7b1ddc141",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 37019,
+        "genre": "Pop",
+        "release_date": "2023-09-06T15:43:11.534Z",
+        "created_at": "2023-09-06T21:07:43.723Z",
+        "updated_at": "2023-09-07T01:48:10.978Z"
+      },
+      {
+        "id": "fe142744-4f21-48d3-922a-f8dba2f5b753",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "duration": 4699,
+        "genre": "Country",
+        "release_date": "2023-09-06T13:45:52.483Z",
+        "created_at": "2023-09-07T02:49:27.670Z",
+        "updated_at": "2023-09-07T07:37:05.684Z"
+      },
+      {
+        "id": "67db7a7d-7b4f-4162-8758-5c69593a1444",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "duration": 29522,
+        "genre": "Hip Hop",
+        "release_date": "2023-09-06T15:40:36.075Z",
+        "created_at": "2023-09-06T21:25:57.488Z",
+        "updated_at": "2023-09-06T21:36:06.210Z"
+      },
+      {
+        "id": "e81945a6-cc54-462a-ad54-8f12be46e738",
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "duration": 94096,
+        "genre": "Jazz",
+        "release_date": "2023-09-06T19:59:33.810Z",
+        "created_at": "2023-09-06T14:17:58.340Z",
+        "updated_at": "2023-09-06T16:12:44.523Z"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "13197feb-cf98-4d90-ba24-1cd63641703e",
+        "brand": "Apple",
+        "model": "iPod",
+        "price": 65851,
+        "color": "Silver",
+        "weight": 33912,
+        "created_at": "2023-09-06T22:23:15.130Z",
+        "updated_at": "2023-09-07T03:53:09.690Z"
+      },
+      {
+        "id": "f30a59d8-7b7c-42cf-9602-de466b2e1aeb",
+        "brand": "Sony",
+        "model": "Walkman",
+        "price": 44356,
+        "color": "Black",
+        "weight": 90067,
+        "created_at": "2023-09-07T06:06:00.117Z",
+        "updated_at": "2023-09-06T14:23:56.758Z"
+      },
+      {
+        "id": "9f886996-a573-42e7-81d7-1e3cfa658471",
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "price": 11973,
+        "color": "Blue",
+        "weight": 48691,
+        "created_at": "2023-09-06T16:09:17.248Z",
+        "updated_at": "2023-09-07T06:09:57.271Z"
+      },
+      {
+        "id": "faacd98f-651f-4c5b-ada1-82307cba6c2b",
+        "brand": "Bose",
+        "model": "SoundLink",
+        "price": 43953,
+        "color": "Red",
+        "weight": 23864,
+        "created_at": "2023-09-07T01:20:16.673Z",
+        "updated_at": "2023-09-06T14:50:12.417Z"
+      },
+      {
+        "id": "924523f1-9453-4296-8cfa-6bdf791e9410",
+        "brand": "JBL",
+        "model": "Flip",
+        "price": 61284,
+        "color": "White",
+        "weight": 88742,
+        "created_at": "2023-09-07T08:06:28.715Z",
+        "updated_at": "2023-09-06T22:20:05.781Z"
+      }
+    ],
+    "selected_mp3_players": [
+      {
+        "id": "362af0ae-4f15-485a-ae09-561eecf6d187",
+        "created_at": "2023-09-06T22:42:46.661Z",
+        "updated_at": "2023-09-07T00:35:55.875Z",
+        "mp3_player_id": "9f886996-a573-42e7-81d7-1e3cfa658471",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b88c3e02-8a2f-4566-a3ee-10239aac281b",
+        "created_at": "2023-09-06T21:59:43.062Z",
+        "updated_at": "2023-09-07T08:20:34.968Z",
+        "mp3_player_id": "924523f1-9453-4296-8cfa-6bdf791e9410",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c94938f-d198-4099-ac02-6d34db95397a",
+        "created_at": "2023-09-07T04:52:09.706Z",
+        "updated_at": "2023-09-07T00:47:04.699Z",
+        "mp3_player_id": "faacd98f-651f-4c5b-ada1-82307cba6c2b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd48b21e-1e84-4b55-8a6e-21a9418d64c3",
+        "created_at": "2023-09-06T22:47:07.395Z",
+        "updated_at": "2023-09-07T06:45:03.247Z",
+        "mp3_player_id": "924523f1-9453-4296-8cfa-6bdf791e9410",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81af96c7-8f29-4b76-8916-51cc7c3bba19",
+        "created_at": "2023-09-07T05:00:09.565Z",
+        "updated_at": "2023-09-06T22:15:09.422Z",
+        "mp3_player_id": "f30a59d8-7b7c-42cf-9602-de466b2e1aeb",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite_songs": [
+      {
+        "id": "a63d1ea1-4737-4b8e-af63-adb7c5e59e0f",
+        "created_at": "2023-09-06T22:27:04.313Z",
+        "updated_at": "2023-09-06T22:12:23.831Z",
+        "song_id": "fe142744-4f21-48d3-922a-f8dba2f5b753",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "185791a5-9b04-41a3-940c-d9b8b0c24c8b",
+        "created_at": "2023-09-06T18:38:43.342Z",
+        "updated_at": "2023-09-06T12:41:20.569Z",
+        "song_id": "009e26d5-3e47-485d-ac25-4ad7b1ddc141",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4cc0bec-67e6-48b2-83bb-074fba1d251c",
+        "created_at": "2023-09-07T04:00:43.769Z",
+        "updated_at": "2023-09-06T23:20:47.902Z",
+        "song_id": "67db7a7d-7b4f-4162-8758-5c69593a1444",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4279c02-cc49-44e5-a492-38a9376bcb3e",
+        "created_at": "2023-09-07T05:09:56.443Z",
+        "updated_at": "2023-09-06T17:34:54.774Z",
+        "song_id": "67db7a7d-7b4f-4162-8758-5c69593a1444",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f6b4296b-ab9a-43f3-be91-eb49a3875600",
+        "created_at": "2023-09-06T15:54:12.513Z",
+        "updated_at": "2023-09-06T22:14:01.136Z",
+        "song_id": "fe142744-4f21-48d3-922a-f8dba2f5b753",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "acff9b49-e0f2-418b-8475-25aa6626d0ac",
+        "email": "Tara.Blanda@hotmail.com",
+        "firstName": "Jerod",
+        "lastName": "O'Keefe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11634265",
+        "tenantId": null
+      },
+      {
+        "reference": "9c1cd9ed-8a90-4d19-a22c-331c38560222",
+        "email": "Alyce92@gmail.com",
+        "firstName": "Carley",
+        "lastName": "Borer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/295.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ab802c58-64b6-4d17-9693-e4e16c068a1e",
+        "email": "Christiana.Rohan26@yahoo.com",
+        "firstName": "Quinn",
+        "lastName": "Rowe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70609553",
+        "tenantId": null
+      },
+      {
+        "reference": "81172726-66c7-4f3d-b121-a1ef62b1eac0",
+        "email": "Meta65@hotmail.com",
+        "firstName": "Alayna",
+        "lastName": "Macejkovic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64444955",
+        "tenantId": null
+      },
+      {
+        "reference": "09e26fa2-ee8c-4b89-a99e-3c220ef3605d",
+        "email": "Destiney82@gmail.com",
+        "firstName": "Oceane",
+        "lastName": "Pacocha",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64448395",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "de7b6a1d-c656-45a5-9fdc-8c9718e6c25f",
+        "title": "The Journey Begins",
+        "artist": "The Melodies",
+        "duration": 12543,
+        "genre": "Pop",
+        "release_date": "2023-09-07T02:41:05.358Z",
+        "created_at": "2023-09-06T12:16:33.394Z",
+        "updated_at": "2023-09-07T08:12:39.405Z"
+      },
+      {
+        "id": "d5c86fe4-bce2-409c-926e-a551ee6be7df",
+        "title": "Dancing in the Moonlight",
+        "artist": "Soulful Sounds",
+        "duration": 75963,
+        "genre": "Rock",
+        "release_date": "2023-09-06T23:18:38.810Z",
+        "created_at": "2023-09-06T21:48:50.003Z",
+        "updated_at": "2023-09-07T04:21:02.429Z"
+      },
+      {
+        "id": "70285164-b3bb-4a74-8bbd-74131f560a51",
+        "title": "Sunset Serenade",
+        "artist": "Rhythm Masters",
+        "duration": 48477,
+        "genre": "Jazz",
+        "release_date": "2023-09-06T12:03:15.270Z",
+        "created_at": "2023-09-06T11:30:00.806Z",
+        "updated_at": "2023-09-07T05:18:53.266Z"
+      },
+      {
+        "id": "6f1bff4a-7776-4f21-b466-8df0a896eebc",
+        "title": "Midnight Rendezvous",
+        "artist": "Harmony Ensemble",
+        "duration": 62843,
+        "genre": "Classical",
+        "release_date": "2023-09-07T05:50:39.781Z",
+        "created_at": "2023-09-06T19:13:52.596Z",
+        "updated_at": "2023-09-06T10:54:39.569Z"
+      },
+      {
+        "id": "7db41fdd-98bc-4076-b424-45415b5eaf5b",
+        "title": "Whispering Wind",
+        "artist": "Musical Bliss",
+        "duration": 30361,
+        "genre": "Electronic",
+        "release_date": "2023-09-06T20:27:09.128Z",
+        "created_at": "2023-09-07T07:46:43.800Z",
+        "updated_at": "2023-09-06T22:22:37.779Z"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "1657550c-ceb8-4e5b-9028-f3422c347961",
+        "brand": "Sony",
+        "model": "X1",
+        "price": 98310,
+        "color": "Black",
+        "weight": 32628,
+        "created_at": "2023-09-07T05:52:25.280Z",
+        "updated_at": "2023-09-06T17:17:43.849Z"
+      },
+      {
+        "id": "c2f70e6b-c3e6-49ca-a9c1-3525fd587e61",
+        "brand": "Apple",
+        "model": "iPod Touch",
+        "price": 57970,
+        "color": "Silver",
+        "weight": 85298,
+        "created_at": "2023-09-07T02:44:05.477Z",
+        "updated_at": "2023-09-06T11:25:49.331Z"
+      },
+      {
+        "id": "ec974510-05c9-43c2-b0ff-c4b8ac9fe63b",
+        "brand": "Samsung",
+        "model": "Galaxy Player",
+        "price": 62193,
+        "color": "Blue",
+        "weight": 84447,
+        "created_at": "2023-09-06T15:51:38.493Z",
+        "updated_at": "2023-09-07T00:51:19.392Z"
+      },
+      {
+        "id": "f5e32d06-97fa-4d0c-bd14-869d0ae376cb",
+        "brand": "Bose",
+        "model": "QuietComfort",
+        "price": 98415,
+        "color": "Red",
+        "weight": 20788,
+        "created_at": "2023-09-07T01:29:22.692Z",
+        "updated_at": "2023-09-06T19:48:51.903Z"
+      },
+      {
+        "id": "595dcdb2-6321-4169-8e49-c51e59cf917b",
+        "brand": "JBL",
+        "model": "Flip 5",
+        "price": 50865,
+        "color": "White",
+        "weight": 53188,
+        "created_at": "2023-09-07T04:41:42.556Z",
+        "updated_at": "2023-09-06T21:25:05.027Z"
+      }
+    ],
+    "selected_mp3_players": [
+      {
+        "id": "647bd248-f15a-4bce-9e26-0b8e9ee39d20",
+        "created_at": "2023-09-07T01:07:44.115Z",
+        "updated_at": "2023-09-07T00:57:36.964Z",
+        "mp3_player_id": "c2f70e6b-c3e6-49ca-a9c1-3525fd587e61",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34f2ad70-276f-4ef4-98f9-8cba126d956a",
+        "created_at": "2023-09-07T03:46:54.810Z",
+        "updated_at": "2023-09-06T16:46:33.610Z",
+        "mp3_player_id": "ec974510-05c9-43c2-b0ff-c4b8ac9fe63b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d041f994-b357-49e5-a976-ba4efe6e0fb5",
+        "created_at": "2023-09-06T14:47:17.233Z",
+        "updated_at": "2023-09-06T19:33:22.618Z",
+        "mp3_player_id": "595dcdb2-6321-4169-8e49-c51e59cf917b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06d7905b-9454-4ff6-97a9-412b8330c52b",
+        "created_at": "2023-09-06T13:38:51.439Z",
+        "updated_at": "2023-09-07T00:32:19.476Z",
+        "mp3_player_id": "ec974510-05c9-43c2-b0ff-c4b8ac9fe63b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "942520bb-e5a3-466d-a18e-baa9ac2b6832",
+        "created_at": "2023-09-07T08:50:17.311Z",
+        "updated_at": "2023-09-06T13:05:13.219Z",
+        "mp3_player_id": "f5e32d06-97fa-4d0c-bd14-869d0ae376cb",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite_songs": [
+      {
+        "id": "b45f0499-0577-4ccf-a13a-c5232bde0833",
+        "created_at": "2023-09-06T10:14:24.391Z",
+        "updated_at": "2023-09-06T21:08:15.605Z",
+        "song_id": "7db41fdd-98bc-4076-b424-45415b5eaf5b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7f74391-4155-4a34-8c2b-a5b686644c76",
+        "created_at": "2023-09-06T13:45:39.833Z",
+        "updated_at": "2023-09-07T08:21:55.627Z",
+        "song_id": "de7b6a1d-c656-45a5-9fdc-8c9718e6c25f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59e163ea-d6ab-4da9-b987-a82454fa0506",
+        "created_at": "2023-09-06T11:38:04.270Z",
+        "updated_at": "2023-09-06T12:55:01.135Z",
+        "song_id": "d5c86fe4-bce2-409c-926e-a551ee6be7df",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "13cc6b23-3e15-402a-be82-26213c8bf729",
+        "created_at": "2023-09-07T08:57:56.220Z",
+        "updated_at": "2023-09-06T16:24:39.876Z",
+        "song_id": "7db41fdd-98bc-4076-b424-45415b5eaf5b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6fc62152-22cf-47cb-9fae-76e6b9c7c9e8",
+        "created_at": "2023-09-06T15:13:55.862Z",
+        "updated_at": "2023-09-06T09:30:33.037Z",
+        "song_id": "70285164-b3bb-4a74-8bbd-74131f560a51",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5889cdaf-8999-49c4-9f26-5a05f00a3310",
+        "email": "Jaylin_Rath@gmail.com",
+        "firstName": "Gail",
+        "lastName": "Beatty",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4191029",
+        "tenantId": null
+      },
+      {
+        "reference": "b9507e4f-77b5-439f-a7c9-6b6599587d70",
+        "email": "Natalia.Cummings@gmail.com",
+        "firstName": "Garnet",
+        "lastName": "Towne",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54315844",
+        "tenantId": null
+      },
+      {
+        "reference": "b07ed0a6-3346-436b-ba68-5fa998362a4f",
+        "email": "Sierra.Deckow@yahoo.com",
+        "firstName": "Alison",
+        "lastName": "Nitzsche",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/844.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e20df3af-7b53-4497-abab-18ae7a527485",
+        "email": "Lysanne.Bernhard@yahoo.com",
+        "firstName": "Annette",
+        "lastName": "Kautzer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70549959",
+        "tenantId": null
+      },
+      {
+        "reference": "c7e5b7d2-c054-4e04-bf86-5a00e0aee724",
+        "email": "Etha.Towne16@hotmail.com",
+        "firstName": "Chelsie",
+        "lastName": "Bradtke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1080.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "454a82f5-49db-4ed5-ab08-e5ccf402c65a",
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "duration": 39734,
+        "genre": "Hip Hop",
+        "release_date": "2023-09-06T10:45:58.797Z",
+        "created_at": "2023-09-06T19:51:39.337Z",
+        "updated_at": "2023-09-06T14:43:56.109Z"
+      },
+      {
+        "id": "6b9a2566-4165-45e1-a827-fd3d73416518",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 32741,
+        "genre": "Rock",
+        "release_date": "2023-09-06T10:10:11.367Z",
+        "created_at": "2023-09-07T01:22:05.070Z",
+        "updated_at": "2023-09-07T04:29:28.594Z"
+      },
+      {
+        "id": "b52593da-99e4-410e-bb99-bd8365ba6d68",
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "duration": 6750,
+        "genre": "Pop",
+        "release_date": "2023-09-07T08:57:47.889Z",
+        "created_at": "2023-09-07T08:41:30.631Z",
+        "updated_at": "2023-09-06T16:12:20.868Z"
+      },
+      {
+        "id": "12449065-448d-45e2-a941-61fa0561c323",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "duration": 84006,
+        "genre": "Classic Rock",
+        "release_date": "2023-09-07T03:40:34.336Z",
+        "created_at": "2023-09-07T03:38:22.287Z",
+        "updated_at": "2023-09-07T06:54:13.046Z"
+      },
+      {
+        "id": "2832d98e-4af2-4d84-b554-c4419f102f1b",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "duration": 51806,
+        "genre": "Alternative",
+        "release_date": "2023-09-06T12:19:28.240Z",
+        "created_at": "2023-09-06T11:51:13.334Z",
+        "updated_at": "2023-09-07T02:05:53.748Z"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "dffa340e-a5c8-4bc6-ae47-e97cbfe11623",
+        "brand": "Apple",
+        "model": "iPod",
+        "price": 17324,
+        "color": "Silver",
+        "weight": 16733,
+        "created_at": "2023-09-06T17:08:59.319Z",
+        "updated_at": "2023-09-07T02:45:20.349Z"
+      },
+      {
+        "id": "c13809cd-7e6d-4286-be37-a18ee5521871",
+        "brand": "Sony",
+        "model": "Walkman",
+        "price": 10500,
+        "color": "Black",
+        "weight": 6786,
+        "created_at": "2023-09-06T22:24:46.036Z",
+        "updated_at": "2023-09-06T18:05:14.155Z"
+      },
+      {
+        "id": "aa0cb5a5-d5c8-435c-a51c-c5cea2a9fad6",
+        "brand": "Samsung",
+        "model": "Galaxy Player",
+        "price": 99748,
+        "color": "Blue",
+        "weight": 53906,
+        "created_at": "2023-09-07T02:12:06.309Z",
+        "updated_at": "2023-09-07T01:28:14.918Z"
+      },
+      {
+        "id": "b5f63900-be1c-4162-988f-19811c1da375",
+        "brand": "Bose",
+        "model": "SoundLink",
+        "price": 32494,
+        "color": "Red",
+        "weight": 73278,
+        "created_at": "2023-09-07T06:00:17.139Z",
+        "updated_at": "2023-09-06T15:53:42.293Z"
+      },
+      {
+        "id": "28cf2bc6-1da6-446d-8411-c2f2e9db2def",
+        "brand": "JBL",
+        "model": "Flip",
+        "price": 8767,
+        "color": "White",
+        "weight": 10828,
+        "created_at": "2023-09-06T15:54:57.867Z",
+        "updated_at": "2023-09-06T20:23:16.443Z"
+      }
+    ],
+    "selected_mp3_players": [
+      {
+        "id": "37c1284b-fa3d-4638-b3d8-995b7a31400a",
+        "created_at": "2023-09-07T08:36:58.875Z",
+        "updated_at": "2023-09-06T14:12:40.684Z",
+        "mp3_player_id": "dffa340e-a5c8-4bc6-ae47-e97cbfe11623",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f038578-0a8c-4b40-896b-bfdc2b2e3e3a",
+        "created_at": "2023-09-07T00:17:19.192Z",
+        "updated_at": "2023-09-06T12:16:14.161Z",
+        "mp3_player_id": "c13809cd-7e6d-4286-be37-a18ee5521871",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29e5bd12-6a44-46fe-aec9-abedb1542312",
+        "created_at": "2023-09-07T02:15:50.877Z",
+        "updated_at": "2023-09-06T17:11:24.771Z",
+        "mp3_player_id": "dffa340e-a5c8-4bc6-ae47-e97cbfe11623",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ecd6e3e-4d39-4ef5-a4f7-b56b926eed60",
+        "created_at": "2023-09-07T02:01:20.028Z",
+        "updated_at": "2023-09-06T18:34:32.478Z",
+        "mp3_player_id": "b5f63900-be1c-4162-988f-19811c1da375",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b1294f1-6a7b-4f4b-9279-bfc172142aee",
+        "created_at": "2023-09-07T06:50:56.414Z",
+        "updated_at": "2023-09-07T00:57:15.953Z",
+        "mp3_player_id": "dffa340e-a5c8-4bc6-ae47-e97cbfe11623",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite_songs": [
+      {
+        "id": "7ca53bd3-54aa-4c65-96a2-2c236645eb5f",
+        "created_at": "2023-09-07T03:06:38.279Z",
+        "updated_at": "2023-09-06T16:53:46.257Z",
+        "song_id": "454a82f5-49db-4ed5-ab08-e5ccf402c65a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "414a6541-bc46-49fd-b421-fe8f7f022821",
+        "created_at": "2023-09-06T12:39:26.575Z",
+        "updated_at": "2023-09-07T01:50:49.765Z",
+        "song_id": "6b9a2566-4165-45e1-a827-fd3d73416518",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "382e33b7-80ca-4a54-a637-586b9f83d0b8",
+        "created_at": "2023-09-06T17:37:15.958Z",
+        "updated_at": "2023-09-06T20:05:25.501Z",
+        "song_id": "b52593da-99e4-410e-bb99-bd8365ba6d68",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "642b1638-f9c7-4c97-b73c-ffa313dcafb5",
+        "created_at": "2023-09-07T07:43:47.927Z",
+        "updated_at": "2023-09-06T14:50:01.953Z",
+        "song_id": "b52593da-99e4-410e-bb99-bd8365ba6d68",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c5ede61-4d4c-442e-a14d-59e37f15b560",
+        "created_at": "2023-09-07T02:52:56.730Z",
+        "updated_at": "2023-09-07T01:53:54.560Z",
+        "song_id": "b52593da-99e4-410e-bb99-bd8365ba6d68",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2b03d4e1-5db9-4af6-bc1d-3ac35547f05b",
+        "email": "Noemy_Prohaska-Rau81@gmail.com",
+        "firstName": "Amalia",
+        "lastName": "Halvorson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/720.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "aab4f059-fe2d-4b8d-b5aa-80d9f5dee627",
+        "email": "Hosea79@hotmail.com",
+        "firstName": "Quinn",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39301467",
+        "tenantId": null
+      },
+      {
+        "reference": "9605282f-675e-4d40-8d5c-15d0e9c8b2a6",
+        "email": "Hipolito25@gmail.com",
+        "firstName": "Fredrick",
+        "lastName": "Streich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/496.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4f95e901-f005-452c-9fc5-70fdac16fdfb",
+        "email": "Kelli_Carter46@yahoo.com",
+        "firstName": "Vena",
+        "lastName": "Emmerich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84591404",
+        "tenantId": null
+      },
+      {
+        "reference": "bc438f3b-a7fa-443a-b988-a7b64af4507d",
+        "email": "Guillermo0@hotmail.com",
+        "firstName": "Harrison",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30880279",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "f00c72ff-1cb9-4633-88f1-b3d01e2f3fc6",
+        "title": "Gravity",
+        "artist": "John Mayer",
+        "duration": 3537,
+        "genre": "Pop",
+        "release_date": "2023-09-06T13:48:55.465Z",
+        "created_at": "2023-09-06T21:43:39.296Z",
+        "updated_at": "2023-09-07T01:06:37.207Z"
+      },
+      {
+        "id": "1d582cc3-08e3-4b5e-b7b1-11174e7282c1",
+        "title": "Dream On",
+        "artist": "Aerosmith",
+        "duration": 98437,
+        "genre": "Rock",
+        "release_date": "2023-09-06T23:06:08.576Z",
+        "created_at": "2023-09-06T19:06:11.051Z",
+        "updated_at": "2023-09-07T08:18:40.589Z"
+      },
+      {
+        "id": "55859c8c-304c-46a6-80f4-a025c1cc94de",
+        "title": "Riptide",
+        "artist": "Vance Joy",
+        "duration": 44907,
+        "genre": "Indie",
+        "release_date": "2023-09-07T07:52:17.373Z",
+        "created_at": "2023-09-06T17:41:00.047Z",
+        "updated_at": "2023-09-06T10:59:19.948Z"
+      },
+      {
+        "id": "aab12659-1e32-473a-b988-e044cf697fdd",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "duration": 56044,
+        "genre": "Classic Rock",
+        "release_date": "2023-09-06T19:18:12.996Z",
+        "created_at": "2023-09-07T01:52:52.240Z",
+        "updated_at": "2023-09-06T14:49:17.670Z"
+      },
+      {
+        "id": "ef575d1a-0e84-4f56-a773-19a0dad92cfb",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 8108,
+        "genre": "Alternative",
+        "release_date": "2023-09-06T20:16:36.003Z",
+        "created_at": "2023-09-06T09:55:01.810Z",
+        "updated_at": "2023-09-06T14:31:05.922Z"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "8b3a4d27-585f-4d17-84e9-25ca0f3f6081",
+        "brand": "Apple",
+        "model": "iPod",
+        "price": 85925,
+        "color": "Silver",
+        "weight": 80986,
+        "created_at": "2023-09-06T14:10:17.293Z",
+        "updated_at": "2023-09-06T18:58:56.360Z"
+      },
+      {
+        "id": "6d77c042-0691-4df6-95a6-f9dbcac32c68",
+        "brand": "Sony",
+        "model": "Walkman",
+        "price": 27982,
+        "color": "Black",
+        "weight": 80078,
+        "created_at": "2023-09-07T03:59:14.227Z",
+        "updated_at": "2023-09-07T07:23:35.106Z"
+      },
+      {
+        "id": "0eac07e2-e03b-4ced-9868-e0c572d8c4d7",
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "price": 98926,
+        "color": "Blue",
+        "weight": 15833,
+        "created_at": "2023-09-06T20:07:14.020Z",
+        "updated_at": "2023-09-06T13:26:47.802Z"
+      },
+      {
+        "id": "59357c2e-5f56-4667-bc90-3d529f12a8bd",
+        "brand": "Bose",
+        "model": "SoundLink",
+        "price": 68851,
+        "color": "Red",
+        "weight": 52815,
+        "created_at": "2023-09-06T22:31:55.506Z",
+        "updated_at": "2023-09-07T02:22:39.715Z"
+      },
+      {
+        "id": "798bd092-126a-4f89-8188-a6104ca4cc82",
+        "brand": "JBL",
+        "model": "Flip",
+        "price": 77612,
+        "color": "White",
+        "weight": 44853,
+        "created_at": "2023-09-07T03:07:39.830Z",
+        "updated_at": "2023-09-06T19:20:12.064Z"
+      }
+    ],
+    "selected_mp3_players": [
+      {
+        "id": "15ea034b-3dde-4f51-8439-5088329ff880",
+        "created_at": "2023-09-07T05:34:43.971Z",
+        "updated_at": "2023-09-07T05:36:16.984Z",
+        "mp3_player_id": "6d77c042-0691-4df6-95a6-f9dbcac32c68",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc6206b5-592d-4c30-bd3d-335212584e14",
+        "created_at": "2023-09-06T13:51:32.899Z",
+        "updated_at": "2023-09-06T14:22:13.603Z",
+        "mp3_player_id": "59357c2e-5f56-4667-bc90-3d529f12a8bd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2216db7e-0a06-45cc-b8b5-304e890cc1a1",
+        "created_at": "2023-09-07T04:00:51.658Z",
+        "updated_at": "2023-09-06T12:14:30.357Z",
+        "mp3_player_id": "8b3a4d27-585f-4d17-84e9-25ca0f3f6081",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ede1bdac-f32b-4568-ad0c-eb25330a847e",
+        "created_at": "2023-09-06T12:05:54.828Z",
+        "updated_at": "2023-09-07T08:17:57.103Z",
+        "mp3_player_id": "6d77c042-0691-4df6-95a6-f9dbcac32c68",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7bd3cddc-9b1e-45ed-97da-9c17bdc36101",
+        "created_at": "2023-09-07T07:46:26.885Z",
+        "updated_at": "2023-09-07T06:43:46.130Z",
+        "mp3_player_id": "798bd092-126a-4f89-8188-a6104ca4cc82",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite_songs": [
+      {
+        "id": "2e6933e6-3675-4def-8f8a-e46a2d29d703",
+        "created_at": "2023-09-07T06:09:49.179Z",
+        "updated_at": "2023-09-07T09:09:53.024Z",
+        "song_id": "ef575d1a-0e84-4f56-a773-19a0dad92cfb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5e4170b0-bad4-4ee6-a0ab-4049f836cb9e",
+        "created_at": "2023-09-07T00:19:14.305Z",
+        "updated_at": "2023-09-06T15:12:56.432Z",
+        "song_id": "55859c8c-304c-46a6-80f4-a025c1cc94de",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb10ea54-074d-4289-a452-7f253e6021fa",
+        "created_at": "2023-09-07T05:17:43.774Z",
+        "updated_at": "2023-09-07T05:13:00.581Z",
+        "song_id": "55859c8c-304c-46a6-80f4-a025c1cc94de",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f559f347-6ef6-4821-8ae1-351227efb49f",
+        "created_at": "2023-09-07T09:21:21.206Z",
+        "updated_at": "2023-09-07T01:26:56.021Z",
+        "song_id": "f00c72ff-1cb9-4633-88f1-b3d01e2f3fc6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "298eb278-0967-491c-b0b0-e714fb6bebc0",
+        "created_at": "2023-09-06T11:14:50.033Z",
+        "updated_at": "2023-09-06T22:04:43.598Z",
+        "song_id": "f00c72ff-1cb9-4633-88f1-b3d01e2f3fc6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d7fc0ca1-477b-45ed-b591-edff99f5f513",
+        "email": "Esther25@yahoo.com",
+        "firstName": "Aileen",
+        "lastName": "Nienow",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/437.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6ab44a6b-c2b0-4944-9247-db01b0fa35b9",
+        "email": "Brooks.Nader@yahoo.com",
+        "firstName": "Luisa",
+        "lastName": "Stroman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1149.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dd93d38a-5ade-479b-a0c5-1c17c4fc0943",
+        "email": "Kayden48@hotmail.com",
+        "firstName": "Golden",
+        "lastName": "Sawayn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93661295",
+        "tenantId": null
+      },
+      {
+        "reference": "6ffec636-cdb4-418a-a38a-c569cc13beb2",
+        "email": "Candido24@yahoo.com",
+        "firstName": "Leann",
+        "lastName": "Lindgren",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65531530",
+        "tenantId": null
+      },
+      {
+        "reference": "42a2852b-e511-41c6-860a-acfef4c63801",
+        "email": "Hazle.Parisian@yahoo.com",
+        "firstName": "Adelbert",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/662.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "e23a8025-7637-45dc-aa24-a5bafbb468db",
+        "title": "A Thousand Years",
+        "artist": "Christina Perri",
+        "duration": 76292,
+        "genre": "Pop",
+        "release_date": "2023-09-06T20:17:45.213Z",
+        "created_at": "2023-09-06T23:21:45.672Z",
+        "updated_at": "2023-09-07T05:24:55.723Z"
+      },
+      {
+        "id": "bf1474a2-ad1d-41a3-ae23-885273690d48",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 55637,
+        "genre": "Rock",
+        "release_date": "2023-09-06T16:08:55.209Z",
+        "created_at": "2023-09-06T15:51:04.300Z",
+        "updated_at": "2023-09-07T02:07:16.545Z"
+      },
+      {
+        "id": "4a1bb8d0-8176-4484-81bd-f8da621e0ed3",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "duration": 72131,
+        "genre": "R&B",
+        "release_date": "2023-09-06T14:44:47.054Z",
+        "created_at": "2023-09-06T17:11:02.046Z",
+        "updated_at": "2023-09-07T03:20:23.554Z"
+      },
+      {
+        "id": "fa924b3c-5448-4e88-a3c7-421bac9cd603",
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "duration": 91278,
+        "genre": "Classic Rock",
+        "release_date": "2023-09-06T23:04:54.673Z",
+        "created_at": "2023-09-07T08:35:10.803Z",
+        "updated_at": "2023-09-07T02:17:08.719Z"
+      },
+      {
+        "id": "76218701-e659-4aa4-afab-47e200658c42",
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "duration": 8110,
+        "genre": "Alternative",
+        "release_date": "2023-09-06T12:24:15.166Z",
+        "created_at": "2023-09-06T20:03:04.579Z",
+        "updated_at": "2023-09-07T06:13:34.986Z"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "08e775c1-cd24-4384-a93d-3c4a1b3dfdd5",
+        "brand": "Sony",
+        "model": "Walkman",
+        "price": 88755,
+        "color": "Black",
+        "weight": 84384,
+        "created_at": "2023-09-06T10:23:07.169Z",
+        "updated_at": "2023-09-06T17:35:52.700Z"
+      },
+      {
+        "id": "cb1135ba-a896-4517-ae6b-d775d96b5e03",
+        "brand": "Apple",
+        "model": "iPod",
+        "price": 92759,
+        "color": "Silver",
+        "weight": 17197,
+        "created_at": "2023-09-07T03:54:04.313Z",
+        "updated_at": "2023-09-07T01:52:36.327Z"
+      },
+      {
+        "id": "cb241a3f-4fc8-40fb-b9c3-b27ae1a9b655",
+        "brand": "Samsung",
+        "model": "Galaxy Player",
+        "price": 35837,
+        "color": "Blue",
+        "weight": 94408,
+        "created_at": "2023-09-07T03:39:45.372Z",
+        "updated_at": "2023-09-07T00:17:54.322Z"
+      },
+      {
+        "id": "15e34ccb-06e9-43cf-9ab9-4ecafb92950b",
+        "brand": "Bose",
+        "model": "SoundLink",
+        "price": 92636,
+        "color": "Red",
+        "weight": 13921,
+        "created_at": "2023-09-07T01:55:33.253Z",
+        "updated_at": "2023-09-06T18:11:51.848Z"
+      },
+      {
+        "id": "13e0082a-b152-45aa-9554-862df0cc4f4b",
+        "brand": "JBL",
+        "model": "Clip Sport",
+        "price": 87478,
+        "color": "White",
+        "weight": 59092,
+        "created_at": "2023-09-06T21:24:36.052Z",
+        "updated_at": "2023-09-06T18:24:08.473Z"
+      }
+    ],
+    "selected_mp3_players": [
+      {
+        "id": "98e60a64-38db-4217-879a-de92a7f77af9",
+        "created_at": "2023-09-06T15:14:52.681Z",
+        "updated_at": "2023-09-07T09:18:52.620Z",
+        "mp3_player_id": "cb241a3f-4fc8-40fb-b9c3-b27ae1a9b655",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "abf8d88a-5d80-4f98-bf47-ee4fb437fb4f",
+        "created_at": "2023-09-06T16:46:55.076Z",
+        "updated_at": "2023-09-07T02:31:09.080Z",
+        "mp3_player_id": "15e34ccb-06e9-43cf-9ab9-4ecafb92950b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b4bf33b0-9c02-4328-a483-837ff8f94dff",
+        "created_at": "2023-09-06T12:51:25.642Z",
+        "updated_at": "2023-09-07T05:15:37.366Z",
+        "mp3_player_id": "cb241a3f-4fc8-40fb-b9c3-b27ae1a9b655",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "40f0b1f3-bf92-4a56-9a9a-bb47b507de5f",
+        "created_at": "2023-09-07T02:40:18.454Z",
+        "updated_at": "2023-09-06T20:01:51.547Z",
+        "mp3_player_id": "13e0082a-b152-45aa-9554-862df0cc4f4b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a0066016-2dda-49e2-82ed-f9df9aafb352",
+        "created_at": "2023-09-06T21:24:04.609Z",
+        "updated_at": "2023-09-07T05:43:06.091Z",
+        "mp3_player_id": "13e0082a-b152-45aa-9554-862df0cc4f4b",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite_songs": [
+      {
+        "id": "eba5a68e-883e-4ef6-b1f0-57f229f25562",
+        "created_at": "2023-09-07T08:02:55.888Z",
+        "updated_at": "2023-09-07T04:09:32.571Z",
+        "song_id": "fa924b3c-5448-4e88-a3c7-421bac9cd603",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f2518f80-d76d-4cec-a751-db8cdc134c5b",
+        "created_at": "2023-09-06T15:28:57.960Z",
+        "updated_at": "2023-09-06T10:00:45.075Z",
+        "song_id": "bf1474a2-ad1d-41a3-ae23-885273690d48",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba7f2c67-36c1-46f8-b97f-cc0c966d4991",
+        "created_at": "2023-09-06T22:30:55.184Z",
+        "updated_at": "2023-09-06T11:29:27.255Z",
+        "song_id": "fa924b3c-5448-4e88-a3c7-421bac9cd603",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "95f3b670-f513-4457-a666-ddbe2b727cab",
+        "created_at": "2023-09-06T17:34:33.410Z",
+        "updated_at": "2023-09-06T20:18:07.815Z",
+        "song_id": "e23a8025-7637-45dc-aa24-a5bafbb468db",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b76b80b8-9431-4515-91f0-38961f08e698",
+        "created_at": "2023-09-07T08:17:53.405Z",
+        "updated_at": "2023-09-07T04:46:48.398Z",
+        "song_id": "76218701-e659-4aa4-afab-47e200658c42",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4b7a8b5c-2e15-4db1-8c22-9e94b963811f",
+        "email": "Clara.Crist-Dooley@hotmail.com",
+        "firstName": "Rene",
+        "lastName": "Bashirian",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1085.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "15810b88-db42-4118-b4ac-bc5239061249",
+        "email": "Murphy.Daniel56@yahoo.com",
+        "firstName": "Hollis",
+        "lastName": "Hane",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89370789",
+        "tenantId": null
+      },
+      {
+        "reference": "19ca3f30-1788-495d-90c8-e17c5eb95239",
+        "email": "Bo.Zieme56@yahoo.com",
+        "firstName": "Vicky",
+        "lastName": "Turcotte",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13361806",
+        "tenantId": null
+      },
+      {
+        "reference": "85fa8d33-9887-4c78-b2b5-9979e15d9373",
+        "email": "Johann_Gottlieb@gmail.com",
+        "firstName": "Freida",
+        "lastName": "Conroy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1239.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8098ecd0-3e96-4d92-ba7b-1065040b3f75",
+        "email": "Brett_Conn17@gmail.com",
+        "firstName": "Shana",
+        "lastName": "Russel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27718128",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "e5c40992-630c-49ce-a0f1-f3bc08ea6301",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 10654,
+        "genre": "Rock",
+        "release_date": "2023-09-06T21:24:13.344Z",
+        "created_at": "2023-09-07T06:11:21.101Z",
+        "updated_at": "2023-09-07T02:34:05.188Z"
+      },
+      {
+        "id": "ffc1bd6a-3374-418f-9c1d-f1dcecc01def",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "duration": 44401,
+        "genre": "Pop",
+        "release_date": "2023-09-07T05:46:53.645Z",
+        "created_at": "2023-09-06T19:57:39.817Z",
+        "updated_at": "2023-09-06T22:10:08.085Z"
+      },
+      {
+        "id": "2f797944-9728-46ea-bb06-310da5e2e237",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "duration": 32332,
+        "genre": "Classical",
+        "release_date": "2023-09-07T06:07:59.231Z",
+        "created_at": "2023-09-06T23:34:45.512Z",
+        "updated_at": "2023-09-06T13:18:40.848Z"
+      },
+      {
+        "id": "ce19e08d-5e78-437b-9a24-fe41e114d0d8",
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "duration": 70228,
+        "genre": "Blues",
+        "release_date": "2023-09-06T21:43:18.021Z",
+        "created_at": "2023-09-06T22:37:07.193Z",
+        "updated_at": "2023-09-06T20:43:00.932Z"
+      },
+      {
+        "id": "23fe3d26-fa79-4ff3-8431-4afb92daf596",
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "duration": 40972,
+        "genre": "Jazz",
+        "release_date": "2023-09-06T15:55:28.595Z",
+        "created_at": "2023-09-06T22:38:01.435Z",
+        "updated_at": "2023-09-06T15:50:33.609Z"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "6fa31fd5-f661-4607-83ac-96582d9b673f",
+        "brand": "Apple",
+        "model": "iPod",
+        "price": 33248,
+        "color": "Black",
+        "weight": 46209,
+        "created_at": "2023-09-07T04:19:54.370Z",
+        "updated_at": "2023-09-06T19:01:47.886Z"
+      },
+      {
+        "id": "59507c4a-ecf7-4727-889d-3ee20f43a12d",
+        "brand": "Sony",
+        "model": "Walkman",
+        "price": 22393,
+        "color": "Silver",
+        "weight": 37738,
+        "created_at": "2023-09-07T00:41:30.395Z",
+        "updated_at": "2023-09-06T12:30:47.223Z"
+      },
+      {
+        "id": "a6447b61-c933-46f9-81c6-d1b467004d98",
+        "brand": "Samsung",
+        "model": "Galaxy Player",
+        "price": 80600,
+        "color": "Blue",
+        "weight": 48543,
+        "created_at": "2023-09-06T09:34:40.599Z",
+        "updated_at": "2023-09-06T13:05:26.599Z"
+      },
+      {
+        "id": "638753c1-302a-43c2-88e6-65022062ad46",
+        "brand": "Bose",
+        "model": "SoundLink",
+        "price": 68745,
+        "color": "Red",
+        "weight": 22331,
+        "created_at": "2023-09-06T12:27:14.001Z",
+        "updated_at": "2023-09-06T21:51:03.866Z"
+      },
+      {
+        "id": "1bdccbb3-3249-474b-8a6e-0ccb4fccc75c",
+        "brand": "JBL",
+        "model": "Flip",
+        "price": 39344,
+        "color": "White",
+        "weight": 89869,
+        "created_at": "2023-09-06T11:39:35.546Z",
+        "updated_at": "2023-09-07T05:29:06.972Z"
+      }
+    ],
+    "selected_mp3_players": [
+      {
+        "id": "0fa7eff9-17ae-4c99-811c-275be8671617",
+        "created_at": "2023-09-06T12:01:35.590Z",
+        "updated_at": "2023-09-07T01:59:09.917Z",
+        "mp3_player_id": "6fa31fd5-f661-4607-83ac-96582d9b673f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8604f23-0c0b-4b07-be23-b902428217bb",
+        "created_at": "2023-09-07T05:36:21.812Z",
+        "updated_at": "2023-09-06T22:54:22.334Z",
+        "mp3_player_id": "59507c4a-ecf7-4727-889d-3ee20f43a12d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97a669c0-846e-402d-895e-420278cd1263",
+        "created_at": "2023-09-07T00:26:41.657Z",
+        "updated_at": "2023-09-06T09:33:35.958Z",
+        "mp3_player_id": "1bdccbb3-3249-474b-8a6e-0ccb4fccc75c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bb6a4df3-5eff-4cdc-9a4d-8385e5e2b145",
+        "created_at": "2023-09-06T23:59:44.098Z",
+        "updated_at": "2023-09-06T19:21:52.217Z",
+        "mp3_player_id": "638753c1-302a-43c2-88e6-65022062ad46",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a8701715-e0a0-4dce-bc0f-afd7870148a7",
+        "created_at": "2023-09-06T16:37:15.485Z",
+        "updated_at": "2023-09-06T12:52:03.323Z",
+        "mp3_player_id": "638753c1-302a-43c2-88e6-65022062ad46",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite_songs": [
+      {
+        "id": "f05bc0e3-ad09-42de-bb98-7a966712a5f2",
+        "created_at": "2023-09-06T19:49:44.114Z",
+        "updated_at": "2023-09-06T17:50:21.110Z",
+        "song_id": "ffc1bd6a-3374-418f-9c1d-f1dcecc01def",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4970795-0dc9-47ae-9549-495f6fd8c088",
+        "created_at": "2023-09-06T11:44:42.462Z",
+        "updated_at": "2023-09-06T17:57:14.541Z",
+        "song_id": "ffc1bd6a-3374-418f-9c1d-f1dcecc01def",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f819559-2b3c-4f85-97bb-fc682884a586",
+        "created_at": "2023-09-06T11:37:06.409Z",
+        "updated_at": "2023-09-06T15:09:46.800Z",
+        "song_id": "ce19e08d-5e78-437b-9a24-fe41e114d0d8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "239bfbf3-afce-4b3a-950f-64d949004926",
+        "created_at": "2023-09-06T23:31:24.188Z",
+        "updated_at": "2023-09-07T08:05:11.482Z",
+        "song_id": "ffc1bd6a-3374-418f-9c1d-f1dcecc01def",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd0b2580-5a67-43a1-9b96-6d03bb5abde6",
+        "created_at": "2023-09-06T14:08:36.544Z",
+        "updated_at": "2023-09-07T07:23:41.905Z",
+        "song_id": "ce19e08d-5e78-437b-9a24-fe41e114d0d8",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "798fe3f0-6814-4866-a507-6e510c3546d1",
+        "email": "Dannie_Farrell@hotmail.com",
+        "firstName": "Isabelle",
+        "lastName": "Leuschke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71569798",
+        "tenantId": null
+      },
+      {
+        "reference": "87eae3c9-32d0-4745-b823-b9af24dd7629",
+        "email": "Fred51@gmail.com",
+        "firstName": "Henriette",
+        "lastName": "Schimmel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/509.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e2c2f2a8-7c0e-4dff-a6a6-d8ef77238ff9",
+        "email": "Queenie79@yahoo.com",
+        "firstName": "Ewald",
+        "lastName": "Torphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/584.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "56f51952-3517-4a4b-8686-392b55866dbf",
+        "email": "Angie89@hotmail.com",
+        "firstName": "Heaven",
+        "lastName": "Lebsack",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41063698",
+        "tenantId": null
+      },
+      {
+        "reference": "decee02c-e724-435c-ac39-73a9f21ed62b",
+        "email": "Ola.Veum@yahoo.com",
+        "firstName": "Molly",
+        "lastName": "Abshire",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16013255",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "song": [
+      {
+        "id": "e483480d-e877-4fd9-9bd9-a249e624fcac",
+        "title": "Yesterday",
+        "artist": "The Beatles",
+        "duration": 988,
+        "genre": "Rock",
+        "release_date": "2023-09-06T12:02:07.171Z",
+        "created_at": "2023-09-07T06:33:15.281Z",
+        "updated_at": "2023-09-06T16:01:19.389Z"
+      },
+      {
+        "id": "28346d52-abdf-40c4-b11d-c27df87c80f1",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 782,
+        "genre": "Pop",
+        "release_date": "2023-09-07T09:06:20.910Z",
+        "created_at": "2023-09-06T23:43:43.552Z",
+        "updated_at": "2023-09-07T00:32:45.715Z"
+      },
+      {
+        "id": "b483499c-6f05-4672-b078-7901d41d5361",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "duration": 57553,
+        "genre": "Country",
+        "release_date": "2023-09-07T06:27:26.410Z",
+        "created_at": "2023-09-07T04:54:24.143Z",
+        "updated_at": "2023-09-06T21:00:58.275Z"
+      },
+      {
+        "id": "24c20b1d-2b76-42e1-8026-6f614ecb2436",
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "duration": 49068,
+        "genre": "Hip Hop",
+        "release_date": "2023-09-06T12:58:15.031Z",
+        "created_at": "2023-09-06T15:13:54.373Z",
+        "updated_at": "2023-09-07T06:25:39.101Z"
+      },
+      {
+        "id": "ab6bc6b3-7a35-47b3-a7f0-cbc879265513",
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "duration": 61054,
+        "genre": "Jazz",
+        "release_date": "2023-09-07T02:53:16.565Z",
+        "created_at": "2023-09-06T10:33:56.137Z",
+        "updated_at": "2023-09-06T20:32:28.691Z"
+      }
+    ],
+    "mp3_player": [
+      {
+        "id": "3a395855-aa09-406a-875a-7e6d06cb64d4",
+        "brand": "Sony",
+        "model": "Walkman",
+        "price": 31569,
+        "color": "Black",
+        "weight": 40986,
+        "created_at": "2023-09-07T06:56:56.748Z",
+        "updated_at": "2023-09-06T14:33:11.175Z"
+      },
+      {
+        "id": "c28d343f-5db9-4562-a3aa-1a519f546942",
+        "brand": "Apple",
+        "model": "iPod",
+        "price": 58315,
+        "color": "Silver",
+        "weight": 28255,
+        "created_at": "2023-09-07T03:32:08.783Z",
+        "updated_at": "2023-09-06T18:14:31.579Z"
+      },
+      {
+        "id": "1afd15f0-7a2e-4502-84be-ae756e764e75",
+        "brand": "Samsung",
+        "model": "Galaxy Player",
+        "price": 73472,
+        "color": "Blue",
+        "weight": 27277,
+        "created_at": "2023-09-07T06:17:46.690Z",
+        "updated_at": "2023-09-06T20:17:06.941Z"
+      },
+      {
+        "id": "2701b32a-ff03-4030-8d02-2b55586a4965",
+        "brand": "Bose",
+        "model": "SoundLink",
+        "price": 69050,
+        "color": "Red",
+        "weight": 41006,
+        "created_at": "2023-09-07T02:13:27.975Z",
+        "updated_at": "2023-09-07T00:54:36.932Z"
+      },
+      {
+        "id": "82fe756f-f529-4be1-9aa7-452d08108a88",
+        "brand": "JBL",
+        "model": "Flip",
+        "price": 79576,
+        "color": "White",
+        "weight": 98525,
+        "created_at": "2023-09-07T03:33:17.802Z",
+        "updated_at": "2023-09-06T20:29:27.088Z"
+      }
+    ],
+    "selected_mp3_players": [
+      {
+        "id": "c34d5e2c-f07c-4cc5-8436-d6228b391eb2",
+        "created_at": "2023-09-07T08:39:59.673Z",
+        "updated_at": "2023-09-07T09:17:47.261Z",
+        "mp3_player_id": "3a395855-aa09-406a-875a-7e6d06cb64d4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c027d92-b2b7-4bbc-8238-89d1969089ba",
+        "created_at": "2023-09-06T20:24:44.508Z",
+        "updated_at": "2023-09-06T10:32:46.702Z",
+        "mp3_player_id": "82fe756f-f529-4be1-9aa7-452d08108a88",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a679e85a-c20d-4b0d-8622-44b248d9923e",
+        "created_at": "2023-09-06T17:46:05.636Z",
+        "updated_at": "2023-09-07T06:26:07.947Z",
+        "mp3_player_id": "82fe756f-f529-4be1-9aa7-452d08108a88",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "72558bd9-26cf-47be-928a-6f7d8d2dcbd3",
+        "created_at": "2023-09-07T03:58:55.603Z",
+        "updated_at": "2023-09-06T18:25:59.229Z",
+        "mp3_player_id": "c28d343f-5db9-4562-a3aa-1a519f546942",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c93940c9-c562-447f-8969-ab45ada25a3c",
+        "created_at": "2023-09-06T11:19:42.197Z",
+        "updated_at": "2023-09-06T15:08:42.829Z",
+        "mp3_player_id": "c28d343f-5db9-4562-a3aa-1a519f546942",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite_songs": [
+      {
+        "id": "3458dfb4-16d3-49a9-9c31-9db9b702d224",
+        "created_at": "2023-09-06T21:02:57.383Z",
+        "updated_at": "2023-09-07T06:39:07.487Z",
+        "song_id": "24c20b1d-2b76-42e1-8026-6f614ecb2436",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29aadc2b-b011-4ebb-8b0f-78e70cb809ef",
+        "created_at": "2023-09-07T01:17:49.759Z",
+        "updated_at": "2023-09-07T06:11:14.506Z",
+        "song_id": "b483499c-6f05-4672-b078-7901d41d5361",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e42c237f-5d7f-4eb2-a3ff-2accd3a6114b",
+        "created_at": "2023-09-07T06:59:53.235Z",
+        "updated_at": "2023-09-06T17:22:17.823Z",
+        "song_id": "e483480d-e877-4fd9-9bd9-a249e624fcac",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "baaa04c1-448f-464c-918a-4db7d8217c99",
+        "created_at": "2023-09-06T11:31:34.339Z",
+        "updated_at": "2023-09-07T09:19:27.048Z",
+        "song_id": "ab6bc6b3-7a35-47b3-a7f0-cbc879265513",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "002f6bd5-4839-4128-a395-ac8477cdd1a0",
+        "created_at": "2023-09-06T10:49:30.458Z",
+        "updated_at": "2023-09-06T17:49:55.634Z",
+        "song_id": "b483499c-6f05-4672-b078-7901d41d5361",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "06979793-1777-483e-8ff8-277ce0fb4661",
+        "email": "Micah_Collier@gmail.com",
+        "firstName": "Murl",
+        "lastName": "Waelchi",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81721617",
+        "tenantId": null
+      },
+      {
+        "reference": "a309bb57-7363-4341-a54b-2151e0c8773c",
+        "email": "Lemuel.Graham68@gmail.com",
+        "firstName": "Kali",
+        "lastName": "Kutch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94168295",
+        "tenantId": null
+      },
+      {
+        "reference": "a6d73686-a6d3-43a0-a9a7-cc8d13d5d0bc",
+        "email": "Kade.Lebsack@hotmail.com",
+        "firstName": "Gianni",
+        "lastName": "Reichel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34300313",
+        "tenantId": null
+      },
+      {
+        "reference": "ba2da667-132f-42c7-aaee-ef5652e60553",
+        "email": "Kaley_Bartoletti-Walsh81@yahoo.com",
+        "firstName": "Claudia",
+        "lastName": "Reynolds",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33567858",
+        "tenantId": null
+      },
+      {
+        "reference": "026d4feb-e28a-4db9-8389-16102a5e52fd",
+        "email": "Vallie_Stokes9@hotmail.com",
+        "firstName": "Brielle",
+        "lastName": "Spinka",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97301786",
+        "tenantId": null
+      }
+    ]
+  }
+]
